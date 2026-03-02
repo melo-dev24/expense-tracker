@@ -1,6 +1,6 @@
 # Expense Tracker 
 
-A Python program that allows users to record, view and manage daily expenses. All expenses are stored in JSON file ('expenses.json) for persistent data storage between sessions. 
+A Python program that allows users to record, view and manage daily expenses. All expenses are stored in JSON file (expenses.json) for persistent data storage between sessions. 
 
 
 ## Features
@@ -22,10 +22,10 @@ A Python program that allows users to record, view and manage daily expenses. Al
     python tracker.py
 4. Choose an option from the menu:
 
-1 ⟶ Add Expense
-2 ⟶ View Expense
-3 ⟶ Delete Expense
-4 ⟶ Exit
+- 1 ⟶ Add Expense
+- 2 ⟶ View Expense
+- 3 ⟶ Delete Expense
+- 4 ⟶ Exit
 
 5. Expenses are automatically saved when you exit the program.
 
@@ -42,8 +42,8 @@ A Python program that allows users to record, view and manage daily expenses. Al
 
 ## Requirements
 
-Python 3.x
-No external libraries required(uses only standard Python Library)
+- Python 3.x
+- No external libraries required(uses only standard Python Library)
 
 
 ## File Structure 
