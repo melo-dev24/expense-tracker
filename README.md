@@ -40,7 +40,7 @@ A Python program that allows users to record, view and manage daily expenses. Al
 ![View Expense Tracker](Screenshots/view_expenses_sample.PNG)
 
 
-## Requirments
+## Requirements
 
 Python 3.x
 No external libraries required(uses only standard Python Library)
@@ -48,9 +48,9 @@ No external libraries required(uses only standard Python Library)
 
 ## File Structure 
 
-tracker.py
-expenses.json (auto-created)
-README.md
+- tracker.py
+- expenses.json (auto-created)
+- README.md
 
 
 ## Author 
